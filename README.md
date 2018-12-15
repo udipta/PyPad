@@ -26,4 +26,4 @@ To use the search function, you first have to press Ctrl+F and then type in the 
 To cycle through any words that were found, you press F3
 
 # Installation
-```git clone https://github.com/udipta/PyPad.git && cd PyPad && pip install -r requirements.txt && cd src && python main.py``` 
+```git clone https://github.com/udipta/PyPad.git && cd PyPad && pip3 install -r requirements.txt && cd src && python3 main.py``` 
